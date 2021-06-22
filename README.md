@@ -2,7 +2,7 @@
 A simple Chrome extension to use on your worst enemies... or your really chill friends. Redirects just about all webpages to Rick Astley's Never Gonna Give You Up by adding a meta tag on page load.
 
 ## Be careful
-Obviously, don't use this extension on tempered friend or in mission critical situations.
+Obviously, don't use this extension on hot-tempered friends or in mission critical situations.
 
 ## To Install
 1. Click [this link](https://www.youtube.com/watch?v=dQw4w9WgXcQ). (Just kidding. No need to.)
