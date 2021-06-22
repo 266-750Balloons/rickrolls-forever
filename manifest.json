@@ -1,0 +1,13 @@
+{
+    "name":"Rickrolls Forever",
+    "description":"Use this on your enemies... Or your really cool friends.",
+    "version":"1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "exclude_matches": ["https://www.youtube.com/watch?v=dQw4w9WgXcQ"],
+            "js": ["rickContent.js"]
+        }
+    ]
+}
